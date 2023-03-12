@@ -1,0 +1,4 @@
+{
+  "ALL_URL": "https://api.disneyapi.dev/characters?page=",
+  "BY_NAME_URL": "https://api.disneyapi.dev/character?name="
+}
